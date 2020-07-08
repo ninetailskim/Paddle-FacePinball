@@ -13,3 +13,8 @@ FacePinball
 （本来眼睛想做个左眼进右眼出的传送门的，下次，下次，下次一定）
 （pygame现学现卖）
 就凑合玩玩？
+
+预览视频：
+https://www.bilibili.com/video/BV1Fv41167XM/
+更多资讯：
+https://aistudio.baidu.com/aistudio/projectdetail/518861
